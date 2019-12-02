@@ -23,11 +23,11 @@
 Login form to the private photo gallery.
 
 ## View desktop
-![customer_area-dekstop](img/customer_area_desktop.png)
+![customer_area-dekstop](img/customer_area-desktop.png)
 
 ## View mobile
 
-![customer_area-mobile](img/customer_area_mobile.png)
+![customer_area-mobile](img/customer_area-mobile.png)
 
 ## Author
 
