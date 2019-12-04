@@ -35,6 +35,10 @@ David Burdelak
 
 ## Version
 
+1.0.1
+-
+- Planned enlargement in spring 2020. (back-end: login and register system with SQL)
+
 1.0.0
 -
 - User Interface
