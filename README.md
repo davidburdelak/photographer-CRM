@@ -6,6 +6,7 @@
 
 - [Technologies](#technologies)
 - [Description](#description)
+- [Link](#link)
 - [View desktop](#view-dekstop)
 - [View mobile](#view-mobile)
 - [Author](#author)
@@ -17,6 +18,10 @@
 - HTML5 
 - CSS3 
 - JavaScriptES6
+
+## Link
+
+[Click here](https://davidburdelak.github.io/customer-area/)
 
 ## Description
 
