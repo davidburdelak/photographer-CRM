@@ -1,4 +1,4 @@
-# CUSTOMER AREA
+# photographer-CRM
 
 > Login form to the private photo gallery.
 
@@ -18,6 +18,7 @@
 - HTML5 
 - CSS3 
 - JavaScriptES6
+- PHP 7.4
 
 ## Link
 
@@ -50,5 +51,5 @@ David Burdelak
 
 ## License
 
-The CUSTOMER AREA is released under the
+The photographer-CRM is released under the
 [MIT license](https://opensource.org/licenses/MIT).
