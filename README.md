@@ -22,7 +22,7 @@
 
 ## Link
 
-[Click here](https://davidburdelak.github.io/customer-area/)
+[Click here](https://davidburdelak.github.io/photographer-CRM/)
 
 ## Description
 
@@ -43,7 +43,7 @@ David Burdelak
 
 1.0.1
 -
-- Planned enlargement in spring 2020. (back-end: login and register system with SQL)
+- Planned enlargement in summer 2021. (back-end: login and register system with SQL)
 
 1.0.0
 -
